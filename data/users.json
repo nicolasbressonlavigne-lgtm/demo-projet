@@ -1,0 +1,47 @@
+[
+  {
+    "id": "u-001",
+    "name": "Camille Vasseur",
+    "role": "Product Owner",
+    "email": "camille.vasseur@example.com",
+    "avatar": "CV",
+    "capacityPoints": 20,
+    "active": true
+  },
+  {
+    "id": "u-002",
+    "name": "Yanis Delorme",
+    "role": "Lead Dev",
+    "email": "yanis.delorme@example.com",
+    "avatar": "YD",
+    "capacityPoints": 25,
+    "active": true
+  },
+  {
+    "id": "u-003",
+    "name": "Priya Raman",
+    "role": "Frontend",
+    "email": "priya.raman@example.com",
+    "avatar": "PR",
+    "capacityPoints": 22,
+    "active": true
+  },
+  {
+    "id": "u-004",
+    "name": "Tomas Berg",
+    "role": "Backend",
+    "email": "tomas.berg@example.com",
+    "avatar": "TB",
+    "capacityPoints": 22,
+    "active": true
+  },
+  {
+    "id": "u-005",
+    "name": "Lea Fontaine",
+    "role": "QA",
+    "email": "lea.fontaine@example.com",
+    "avatar": "LF",
+    "capacityPoints": 18,
+    "active": false
+  }
+]

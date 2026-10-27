@@ -1,0 +1,15 @@
+{
+  "name": "taskflow-demo",
+  "version": "0.3.1",
+  "description": "Projet fictif de demonstration : gestion de taches d'equipe",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "test": "vitest run"
+  },
+  "keywords": ["demo", "fictif", "taches", "kanban"],
+  "license": "MIT",
+  "private": true
+}

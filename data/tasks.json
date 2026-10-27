@@ -1,0 +1,90 @@
+[
+  {
+    "id": "T-101",
+    "project": "Refonte du portail client",
+    "title": "Ajouter les filtres par etiquette",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "u-003",
+    "points": 5,
+    "labels": ["frontend", "filtres"],
+    "due": "2026-11-12"
+  },
+  {
+    "id": "T-102",
+    "project": "Refonte du portail client",
+    "title": "Corriger le tri des dates en locale fr-FR",
+    "status": "in_progress",
+    "priority": "medium",
+    "assignee": "u-003",
+    "points": 3,
+    "labels": ["bug", "i18n"],
+    "due": "2026-11-05"
+  },
+  {
+    "id": "T-103",
+    "project": "API v2",
+    "title": "Exposer /api/v2/tasks en pagination curseur",
+    "status": "in_progress",
+    "priority": "high",
+    "assignee": "u-004",
+    "points": 8,
+    "labels": ["backend", "api"],
+    "due": "2026-11-08"
+  },
+  {
+    "id": "T-104",
+    "project": "API v2",
+    "title": "Documenter les codes d'erreur",
+    "status": "review",
+    "priority": "low",
+    "assignee": "u-002",
+    "points": 2,
+    "labels": ["documentation"],
+    "due": "2026-10-30"
+  },
+  {
+    "id": "T-105",
+    "project": "Tableau de bord",
+    "title": "Calculer la charge par membre",
+    "status": "todo",
+    "priority": "medium",
+    "assignee": "u-002",
+    "points": 5,
+    "labels": ["stats"],
+    "due": "2026-11-20"
+  },
+  {
+    "id": "T-106",
+    "project": "Tableau de bord",
+    "title": "Rendre le graphe accessible au clavier",
+    "status": "todo",
+    "priority": "medium",
+    "assignee": "u-005",
+    "points": 3,
+    "labels": ["a11y", "frontend"],
+    "due": "2026-11-25"
+  },
+  {
+    "id": "T-107",
+    "project": "Refonte du portail client",
+    "title": "Migrer les formulaires vers react-hook-form",
+    "status": "done",
+    "priority": "low",
+    "assignee": "u-003",
+    "points": 5,
+    "labels": ["refactor"],
+    "due": "2026-10-15"
+  },
+  {
+    "id": "T-108",
+    "project": "API v2",
+    "title": "Tests d'integration sur les webhooks",
+    "status": "done",
+    "priority": "high",
+    "assignee": "u-005",
+    "points": 4,
+    "labels": ["tests", "backend"],
+    "due": "2026-10-20"
+  }
+]
